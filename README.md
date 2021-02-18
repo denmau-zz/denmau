@@ -14,7 +14,7 @@ Website: [www.denmau.me](https://denmau.me)
 
 | **what am currently studying** | **Skills** | **HOBBIES** |
 | ----------- | ----------- | ----------- |
-| * Machine Learning / AI | * Android Development : [Android Project](https://github.com/denmau/foodfit)| * Coding :-) |
-| * Web Development with PHP | * Machine Learning | * Playing volleyball |
-| | * Java Web Programming (Vaadin & Spring Boot) | * Reading books |
-| | * Front-End Development: Bootstrap (HTML, CSS), JS | * Listening to podcasts |
+| Machine Learning / AI | Android Development : [Android Project](https://github.com/denmau/foodfit)| Coding :-) |
+| Web Development with PHP | Machine Learning | Playing volleyball |
+| | Java Web Programming (Vaadin & Spring Boot) | Reading books |
+| | Front-End Development: Bootstrap (HTML, CSS), JS | Listening to podcasts |
