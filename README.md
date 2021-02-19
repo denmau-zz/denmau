@@ -8,7 +8,6 @@ Website: [www.denmau.me](https://denmau.me)
 <div float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=denmau&show_icons=true&theme=radical&line_height=27?count_private=true" alt="Dennis Kamau's github stats" />
 </div>
-
 <div float="right">
   
 | **what am currently studying** | **Skills** |
