@@ -1,19 +1,9 @@
-# Hi, am Dennis Kamau
-Email: dmkamau475@gmail.com
-Github: [denmau](https://github.com/denmau)
-Website: [www.denmau.me](https://denmau.me)
-<div>
+<div align="left">
+	<h3>Well Hello! 👋</h3>
+	<h3>My name is <a href='https://denmau.me'>Dennis Kamau</a></h3>
+	<h3>I'm a Full Stack Engineer</h3>
+</div> 
+
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=denmau&show_icons=true&theme=radical&line_height=27?count_private=true" alt="Dennis Kamau's github stats" />
-</div>
-<br>
-
-<div>
-  
-| **what am currently studying** | **Skills** |
-| ----------- | ----------- |
-| Machine Learning / AI | Android Development : [Android Project](https://github.com/denmau/foodfit)|
-| Web Development with PHP | Machine Learning |
-| | Web Development with Java (Vaadin & Spring Boot) |
-| | Front-End Development: Bootstrap (HTML, CSS), JS |
-
 </div>
