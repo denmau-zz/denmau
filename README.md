@@ -1,7 +1,5 @@
 <div align="left">
-	<h3>Well Hello! 👋</h3>
 	<h3>My name is <a href='https://denmau.me'>Dennis Kamau</a></h3>
-	<h3>I'm a Full Stack Engineer</h3>
 </div> 
 
 <div align="left">
